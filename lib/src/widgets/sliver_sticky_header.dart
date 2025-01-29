@@ -106,7 +106,6 @@ class _StickyHeaderControllerScope extends InheritedWidget {
 }
 
 /// State describing how a sticky header is rendered.
-@immutable
 class SliverStickyHeaderState {
   const SliverStickyHeaderState(
     this.scrollPercentage,

@@ -5,7 +5,7 @@ version: 0.6.6
 dependencies:
   flutter:
     sdk: flutter
-  value_layout_builder: ^0.3.0
+  value_layout_builder: ^0.4.0
 
 dev_dependencies:
   flutter_test:
